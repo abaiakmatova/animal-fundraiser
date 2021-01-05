@@ -1,1 +1,1 @@
-Make changes to index.js to make the webpage responsive. 
+Make changes to index.html to make the fundraiser page responsive. 
